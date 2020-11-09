@@ -7,6 +7,4 @@ seeking to study machine learning algorithms and develop new techniques to explo
 - Application of deep learning of algorithms to biomedical data.
 
 ## Google scholar page
-```
-https://scholar.google.com/citations?user=vA_Lgb8AAAAJ&hl=en
-```
+[Devi Ayyagari](https://scholar.google.com/citations?user=vA_Lgb8AAAAJ&hl=en)
